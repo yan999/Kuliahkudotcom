@@ -1,7 +1,7 @@
 .version.kehadiran /* version checker */
 {
 	color: #0000E2;
-	background-color: #E110F7;
+	background-color: #49EC58;
 }
 
 .html
@@ -34,6 +34,14 @@
 	z-index: 2;
 	min-height: 92px;
 	padding-bottom: 6px;
+}
+
+#u1057_align_to_page
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 1160px;
+	left: -100px;
 }
 
 #u1062
@@ -214,10 +222,9 @@
 #pu884-4
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 14px;
-	margin-left: 588px;
+	margin-left: 607px;
 }
 
 #u884-4
@@ -225,25 +232,7 @@
 	z-index: 35;
 	display: block;
 	vertical-align: top;
-	margin-left: 203px;
-	position: relative;
-}
-
-#u1225-4
-{
-	z-index: 55;
-	display: block;
-	vertical-align: top;
-	margin-top: 61px;
-	position: relative;
-}
-
-#u1226-4
-{
-	z-index: 59;
-	display: block;
-	vertical-align: top;
-	margin-top: 9px;
+	margin-left: 184px;
 	position: relative;
 }
 
@@ -252,7 +241,7 @@
 	z-index: 53;
 	width: 618px;
 	background-color: transparent;
-	margin-top: 26px;
+	margin-top: 78px;
 	position: relative;
 }
 
@@ -263,12 +252,13 @@
 	padding-bottom: 14px;
 }
 
-#u1057_align_to_page,#u1635_align_to_page
+#u1635_align_to_page
 {
 	margin-left: auto;
 	margin-right: auto;
 	width: 1160px;
 	left: -100px;
+	margin-bottom: -1px;
 }
 
 #u1636-4
@@ -283,7 +273,7 @@
 {
 	z-index: 30;
 	min-height: 48px;
-	margin-top: 1px;
+	margin-top: -1px;
 }
 
 body

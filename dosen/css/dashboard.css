@@ -1,7 +1,7 @@
 .version.dashboard /* version checker */
 {
-	color: #000019;
-	background-color: #A52CD5;
+	color: #0000F3;
+	background-color: #E9B4F9;
 }
 
 .html
@@ -25,7 +25,6 @@
 
 #page_position_content
 {
-	margin-bottom: -4px;
 	width: 0.01px;
 }
 
@@ -55,7 +54,7 @@
 
 #u761-4
 {
-	z-index: 65;
+	z-index: 71;
 	position: relative;
 	width: 176px;
 	margin-right: -10000px;
@@ -71,7 +70,7 @@
 
 #u762
 {
-	z-index: 70;
+	z-index: 76;
 	height: 38px;
 	width: 176px;
 	vertical-align: top;
@@ -89,7 +88,7 @@
 
 #u764
 {
-	z-index: 73;
+	z-index: 79;
 	position: relative;
 	width: 176px;
 	margin-right: -10000px;
@@ -112,7 +111,7 @@
 
 #u765
 {
-	z-index: 75;
+	z-index: 81;
 	width: 2px;
 	height: 55px;
 	background-color: #B6B2B2;
@@ -124,7 +123,7 @@
 
 #u766
 {
-	z-index: 76;
+	z-index: 82;
 	width: 2px;
 	height: 55px;
 	background-color: #B6B2B2;
@@ -210,7 +209,7 @@
 
 #u493-4
 {
-	z-index: 49;
+	z-index: 53;
 	display: block;
 	vertical-align: top;
 	margin-left: 16px;
@@ -219,18 +218,10 @@
 	position: relative;
 }
 
-#pu479
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 335px;
-	margin-left: 694px;
-}
-
 #u479
 {
-	z-index: 61;
+	z-index: 65;
+	margin-top: 84px;
 	position: relative;
 }
 
@@ -255,7 +246,7 @@
 
 #u465
 {
-	z-index: 57;
+	z-index: 61;
 	position: relative;
 }
 
@@ -270,18 +261,10 @@
 	position: relative;
 }
 
-#pu486
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 335px;
-	margin-left: 1004px;
-}
-
 #u486
 {
-	z-index: 63;
+	z-index: 67;
+	margin-top: 84px;
 	position: relative;
 }
 
@@ -307,22 +290,40 @@
 
 #u472
 {
-	z-index: 59;
+	z-index: 63;
 	position: relative;
-}
-
-#u761-4_img,#u458_img,#u479_img,#u465_img,#u486_img,#u472_img
-{
-	display: block;
-	vertical-align: top;
 }
 
 #u478-4
 {
-	z-index: 53;
+	z-index: 57;
 	display: block;
 	vertical-align: top;
 	margin-left: 16px;
+	position: relative;
+}
+
+#u499
+{
+	z-index: 69;
+	margin-top: 81px;
+	position: relative;
+}
+
+#u761-4_img,#u458_img,#u479_img,#u465_img,#u486_img,#u472_img,#u499_img
+{
+	display: block;
+	vertical-align: top;
+}
+
+#u505-4
+{
+	z-index: 49;
+	display: block;
+	vertical-align: top;
+	margin-left: 16px;
+	top: -2px;
+	margin-bottom: -2px;
 	position: relative;
 }
 
@@ -353,7 +354,7 @@
 {
 	z-index: 30;
 	min-height: 48px;
-	margin-top: 2px;
+	margin-top: 1px;
 }
 
 body
