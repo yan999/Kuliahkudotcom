@@ -1,0 +1,166 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="kuliahku.com" resolutions="1x" timestamp="1460710201884">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-masteri.css" crc="4019467318" ref="dashboard"/>
+    <file name="master_a-master.css" crc="216378482" ref="registration:index"/>
+    <file name="master_c-master.css" crc="4242699305" ref="kehadiran:nilai:materi:tugas:quiz"/>
+    <file name="registration.css" crc="4214113585" ref="registration"/>
+    <file name="index.css" crc="4223061649" ref="index"/>
+    <file name="kehadiran.css" crc="3796495448" ref="kehadiran"/>
+    <file name="dashboard.css" crc="430255317" ref="dashboard"/>
+    <file name="nilai.css" crc="3954116496" ref="nilai"/>
+    <file name="materi.css" crc="331748093" ref="materi"/>
+    <file name="tugas.css" crc="453945705" ref="tugas"/>
+    <file name="quiz.css" crc="475041805" ref="quiz"/>
+  </folder>
+  <folder name="assets">
+    <file name="adobe-slate.mulib" crc="132839411" seo="true" mt="1460656179000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:dashboard:materi:registration:nilai:kehadiran:quiz:tugas"/>
+    <file name="museutils.js" crc="183364071" ref="index:dashboard:materi:registration:nilai:kehadiran:quiz:tugas"/>
+    <file name="pie.js" crc="3827607177" ref="index:dashboard:materi:registration"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:dashboard:materi:registration:nilai:kehadiran:quiz:tugas"/>
+    <file name="webpro.js" crc="3803554875" ref="index"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="index"/>
+    <file name="touchswipe.js" crc="4038331989" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="1.png" crc="88739420" seo="true" ref="index:dashboard:materi:registration:nilai:kehadiran:quiz:tugas"/>
+    <file name="u387-4.png" crc="180639125" ref="index:registration"/>
+    <file name="login background.jpg" crc="206572952" seo="true" ref="index"/>
+    <file name="u409-4.png" crc="4065116542" ref="index"/>
+    <file name="form.png" crc="221826433" seo="true" ref="index"/>
+    <file name="u456-4.png" crc="4101113706" ref="index"/>
+    <file name="overview.jpg" crc="3797212773" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:dashboard:materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="overview 2.jpg" crc="3977360641" seo="true" ref="index"/>
+    <file name="overview 3.jpg" crc="3819822434" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="users-user-icon.png" crc="533016339" seo="true" ref="index"/>
+    <file name="pass icon.png" crc="504137729" seo="true" ref="index"/>
+    <file name="u1631-4.png" crc="4049477410" ref="index:registration"/>
+    <file name="u618-4.png" crc="180639125" ref="dashboard"/>
+    <file name="u761-4-a.png" crc="4136115391" ref="dashboard"/>
+    <file name="u762.png" crc="3785597704" ref="dashboard"/>
+    <file name="u762-r.png" crc="3989902643" ref="dashboard"/>
+    <file name="u764_states.png" crc="448442905" ref="dashboard"/>
+    <file name="u764_states-r.png" crc="524782389" ref="dashboard"/>
+    <file name="me.jpg" crc="4190633112" seo="true" ref="dashboard:materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="u609-4.png" crc="3982061063" ref="dashboard"/>
+    <file name="u610-4.png" crc="469508476" ref="dashboard"/>
+    <file name="u611-4.png" crc="469467884" ref="dashboard"/>
+    <file name="checkbox white.png" crc="3853233161" seo="true" ref="dashboard:materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="u1214-4.png" crc="4073339912" ref="dashboard"/>
+    <file name="materi-u458.png" crc="3940102932" ref="dashboard"/>
+    <file name="u493-4.png" crc="3964410261" ref="dashboard"/>
+    <file name="nilai-u479.png" crc="4215000075" ref="dashboard"/>
+    <file name="u464-4.png" crc="445024245" ref="dashboard"/>
+    <file name="evaluasi 1-u465.png" crc="3883400276" ref="dashboard"/>
+    <file name="u471-4.png" crc="498394547" ref="dashboard"/>
+    <file name="presensi-u486.png" crc="4177557727" ref="dashboard"/>
+    <file name="u498-4.png" crc="4286416182" ref="dashboard"/>
+    <file name="evaluasi 2-u472.png" crc="428195302" ref="dashboard"/>
+    <file name="u478-4.png" crc="4284200285" ref="dashboard"/>
+    <file name="u1633-4.png" crc="4049477410" ref="dashboard"/>
+    <file name="u1058-4.png" crc="180639125" ref="materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="u772-4.png" crc="4136115391" ref="materi"/>
+    <file name="u773.png" crc="3785597704" ref="materi"/>
+    <file name="u773-r.png" crc="3989902643" ref="materi"/>
+    <file name="u774_states.png" crc="448442905" ref="materi"/>
+    <file name="u774_states-r.png" crc="524782389" ref="materi"/>
+    <file name="u1059-4.png" crc="3982061063" ref="materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="u1060-4.png" crc="213905375" ref="materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="u1061-4.png" crc="469467884" ref="materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="u1217-4.png" crc="4073339912" ref="materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="menu button.png" crc="4228597635" seo="true" ref="materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="u557-4.png" crc="423841378" ref="materi"/>
+    <file name="u1355-4.png" crc="288024160" ref="materi"/>
+    <file name="u1356-4.png" crc="351110241" ref="materi"/>
+    <file name="materi.jpg" crc="252858036" seo="true" ref="materi"/>
+    <file name="u1343-4.png" crc="459889728" ref="materi"/>
+    <file name="u1344-4.png" crc="405163002" ref="materi"/>
+    <file name="u1345-4.png" crc="3940456251" ref="materi"/>
+    <file name="u1346-4.png" crc="3942439603" ref="materi"/>
+    <file name="u1347-4.png" crc="3853813377" ref="materi"/>
+    <file name="u1352-4.png" crc="514134310" ref="materi"/>
+    <file name="u1353-4.png" crc="4211814749" ref="materi"/>
+    <file name="u1354-4.png" crc="3868334872" ref="materi"/>
+    <file name="download button.png" crc="3984328653" seo="true" ref="materi:quiz:tugas"/>
+    <file name="u1626-4.png" crc="3863973858" ref="materi"/>
+    <file name="u1620-4.png" crc="3897262292" ref="materi"/>
+    <file name="u1621-4.png" crc="37213046" ref="materi"/>
+    <file name="u1623-4.png" crc="64841111" ref="materi"/>
+    <file name="u1628-4.png" crc="4053429761" ref="materi"/>
+    <file name="u1636-4.png" crc="4049477410" ref="materi:nilai:kehadiran:quiz:tugas"/>
+    <file name="u918-4.png" crc="3776434799" ref="registration"/>
+    <file name="combobox.jpg" crc="3927452026" seo="true" ref="registration"/>
+    <file name="u951-4.png" crc="93453528" ref="registration"/>
+    <file name="u957-4.png" crc="523416862" ref="registration"/>
+    <file name="u956-4.png" crc="93453528" ref="registration"/>
+    <file name="u958-4.png" crc="523416862" ref="registration"/>
+    <file name="u1723-4.png" crc="3962432569" ref="registration"/>
+    <file name="u875-4.png" crc="4136115391" ref="nilai"/>
+    <file name="u874.png" crc="3785597704" ref="nilai"/>
+    <file name="u874-r.png" crc="3989902643" ref="nilai"/>
+    <file name="u873_states.png" crc="448442905" ref="nilai"/>
+    <file name="u873_states-r.png" crc="524782389" ref="nilai"/>
+    <file name="u871-4.png" crc="138073725" ref="nilai"/>
+    <file name="tabel nilai.jpg" crc="3824870214" seo="true" ref="nilai"/>
+    <file name="tabel nilai 2.jpg" crc="287469488" seo="true" ref="nilai"/>
+    <file name="u885-4.png" crc="4136115391" ref="kehadiran"/>
+    <file name="u887.png" crc="3785597704" ref="kehadiran"/>
+    <file name="u887-r.png" crc="3989902643" ref="kehadiran"/>
+    <file name="u886_states.png" crc="448442905" ref="kehadiran"/>
+    <file name="u886_states-r.png" crc="524782389" ref="kehadiran"/>
+    <file name="u884-4.png" crc="27088167" ref="kehadiran"/>
+    <file name="kehadiran.jpg" crc="4260441704" seo="true" ref="kehadiran"/>
+    <file name="u1547-4.png" crc="4136115391" ref="quiz"/>
+    <file name="u1509.png" crc="3785597704" ref="quiz"/>
+    <file name="u1509-r.png" crc="3989902643" ref="quiz"/>
+    <file name="u1541_states.png" crc="448442905" ref="quiz"/>
+    <file name="u1541_states-r.png" crc="524782389" ref="quiz"/>
+    <file name="u1517-4.png" crc="4111218397" ref="quiz"/>
+    <file name="u1658-4.png" crc="191148104" ref="quiz"/>
+    <file name="tabel tugas.jpg" crc="4179307891" seo="true" ref="quiz:tugas"/>
+    <file name="u1538-4.png" crc="346082634" ref="quiz"/>
+    <file name="u1515-4.png" crc="357147732" ref="quiz"/>
+    <file name="u1530-4.png" crc="24904084" ref="quiz"/>
+    <file name="u1528-4.png" crc="91035757" ref="quiz"/>
+    <file name="u1522-4.png" crc="4291946233" ref="quiz"/>
+    <file name="u1516-4.png" crc="68162964" ref="quiz"/>
+    <file name="u1523-4.png" crc="243276254" ref="quiz"/>
+    <file name="u1519-4.png" crc="3924373148" ref="quiz"/>
+    <file name="u1521-4.png" crc="4067462496" ref="quiz"/>
+    <file name="u1548-4.png" crc="165969627" ref="quiz"/>
+    <file name="u1533-4.png" crc="440804347" ref="quiz"/>
+    <file name="upload.png" crc="75147025" seo="true" ref="quiz:tugas"/>
+    <file name="u1701-4.png" crc="4136115391" ref="tugas"/>
+    <file name="u1702.png" crc="3785597704" ref="tugas"/>
+    <file name="u1702-r.png" crc="3989902643" ref="tugas"/>
+    <file name="u1677_states.png" crc="448442905" ref="tugas"/>
+    <file name="u1677_states-r.png" crc="524782389" ref="tugas"/>
+    <file name="u1683-4.png" crc="203026166" ref="tugas"/>
+    <file name="u1693-4.png" crc="191148104" ref="tugas"/>
+    <file name="u1691-4.png" crc="346082634" ref="tugas"/>
+    <file name="u1682-4.png" crc="357147732" ref="tugas"/>
+    <file name="u1694-4.png" crc="24904084" ref="tugas"/>
+    <file name="u1692-4.png" crc="3842313167" ref="tugas"/>
+    <file name="u1707-4.png" crc="445675147" ref="tugas"/>
+    <file name="u1700-4.png" crc="4197593632" ref="tugas"/>
+    <file name="u1681-4.png" crc="54693295" ref="tugas"/>
+    <file name="u1699-4.png" crc="3924373148" ref="tugas"/>
+    <file name="u1678-4.png" crc="4067462496" ref="tugas"/>
+    <file name="u1708-4.png" crc="165969627" ref="tugas"/>
+    <file name="u1684-4.png" crc="440804347" ref="tugas"/>
+  </folder>
+  <file name="index.html" crc="429120054" seo="true" mt="1460709383205" redirect="true"/>
+  <file name="dashboard.html" crc="134096155" seo="true" mt="1460709804326" redirect="true"/>
+  <file name="materi.html" crc="3796836926" seo="true" mt="1460709720345" redirect="true"/>
+  <file name="registration.html" crc="224595963" seo="true" mt="1460710167872" redirect="true"/>
+  <file name="nilai.html" crc="4042164134" seo="true" mt="1460709135873" redirect="true"/>
+  <file name="kehadiran.html" crc="4004414968" seo="true" mt="1460709135873" redirect="true"/>
+  <file name="quiz.html" crc="4272965696" seo="true" mt="1460709563278" redirect="true"/>
+  <file name="tugas.html" crc="306321601" seo="true" mt="1460709559934" redirect="true"/>
+</manifest>
