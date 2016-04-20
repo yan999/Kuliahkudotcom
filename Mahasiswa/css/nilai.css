@@ -197,6 +197,32 @@
 	position: relative;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+	font-size:large;
+}
+#headertable{
+	color:#F44447;
+	text-align:center;
+	}
+
+#headertable2{
+	color:#F44447;
+	text-align:center;
+	}
+#header2{
+	text-align:center;
+	}
+#header3{
+	text-align:center;
+	}
+	
+th, td {
+    padding: 15px;
+}
+
+
 #u1165
 {
 	z-index: 55;

@@ -243,6 +243,24 @@
 	margin-right: -10000px;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+	font-size:large;
+}
+th{
+	color:#F44447;
+	text-align:center;
+	}
+	
+th, td {
+    padding: 15px;
+}
+
+#u1246_img, #u1252_img{
+	cursor:pointer;
+}
+
 #u1246
 {
 	z-index: 55;

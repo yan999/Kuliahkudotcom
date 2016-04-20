@@ -20,6 +20,13 @@
 	position: relative;
 }
 
+input[type=checkbox] {
+   display: inline;
+   width:33px;
+   height:33px;
+   cursor:pointer;
+}
+
 #u1635
 {
 	background-color: #484848;
@@ -35,5 +42,12 @@
 	display: block;
 	vertical-align: top;
 	position: relative;
+}
+
+input[type=checkbox] {
+   display: inline;
+   width:33px;
+   height:33px;
+   cursor:pointer;
 }
 

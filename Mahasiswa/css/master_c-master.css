@@ -37,3 +37,10 @@
 	position: relative;
 }
 
+input[type=checkbox] {
+   display: inline;
+   width:33px;
+   height:33px;
+   cursor:pointer;
+}
+

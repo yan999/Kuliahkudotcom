@@ -211,6 +211,14 @@
 	left: 110px;
 }
 
+input[type=text] {
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0px 0;
+    box-sizing: border-box;
+}
+
+
 #pu1525
 {
 	width: 0.01px;
@@ -257,6 +265,16 @@
 	left: 400px;
 }
 
+input[type=button] {
+    width: 100%;
+    padding: 5px 5px 5px 5px;
+	height:100%;
+    box-sizing: border-box;
+	margin-bottom:-7px;
+	background-color:#606060;
+	cursor:pointer;
+}
+
 #u1540-4
 {
 	z-index: 88;
@@ -301,7 +319,7 @@
 {
 	z-index: 53;
 	width: 39px;
-	border-width: 1px;
+	border-width: 0px;
 	border-style: solid;
 	border-color: #7F7F7F;
 	background-color: transparent;
@@ -311,6 +329,17 @@
 	margin-right: -10000px;
 	left: 117px;
 }
+
+#combobox123{
+	display:inline;
+	cursor:pointer;
+	position:relative;
+	width:auto;
+	height:auto;
+	border-width:1px;
+	font-size:large;	
+	}
+
 
 #u1537-4
 {
@@ -353,7 +382,7 @@
 {
 	z-index: 54;
 	width: 49px;
-	border-width: 1px;
+	border-width: 0px;
 	border-style: solid;
 	border-color: #7F7F7F;
 	background-color: transparent;
@@ -362,6 +391,14 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 204px;
+}
+
+#combobox321{
+display:inline;
+cursor:pointer;
+width:auto;
+height:auto;
+font-size:large;
 }
 
 #u1543-4
@@ -410,6 +447,7 @@
 {
 	z-index: 69;
 	width: 132px;
+	cursor:pointer;
 	border-style: none;
 	border-color: transparent;
 	background-color: #FDA51B;
@@ -441,6 +479,25 @@
 	margin-left: 26px;
 	margin-top: 82px;
 }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+	font-size:large;
+}
+#headertable{
+	color:#F44447;
+	text-align:center;
+	}
+
+#download, #delete{
+	cursor:pointer;
+}
+	
+th, td {
+    padding: 15px;
+}
+
 
 #u1526
 {
@@ -704,6 +761,13 @@
 	z-index: 24;
 	width: 33px;
 	margin-right: -10000px;
+}
+
+input[type=checkbox] {
+   display: inline;
+   width:33px;
+   height:33px;
+   cursor:pointer;
 }
 
 #u1217-4

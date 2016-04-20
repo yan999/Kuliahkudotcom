@@ -256,6 +256,36 @@
 	position: relative;
 }
 
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+	font-size:large;
+}
+#header{
+	color:#F44447;
+	text-align:center;
+	}
+#header2{
+	text-align:center;	
+}
+	
+th, td {
+    padding: 15px;
+}
+
+input[type=button] {
+    width: 30%;
+    padding: 7px 7px 7px 7px;
+	height:100%;
+    box-sizing: border-box;
+	margin-right:77px;
+	margin-left: 250px;
+	margin-top: 14px;
+	color:white;
+	background-color:#FDA51B;
+	cursor:pointer;
+}
+
 #u1635
 {
 	z-index: 30;

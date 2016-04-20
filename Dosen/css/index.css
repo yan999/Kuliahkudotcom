@@ -98,6 +98,22 @@
 	left: 977px;
 }
 
+input[type=text] {
+    width: 100%;
+    padding: 5px 10px;
+    margin: -4px 0;
+    box-sizing: border-box;
+	background-color:transparent;
+}
+
+input[type=password] {
+    width: 100%;
+    padding: 5px 10px;
+    margin: -4px 0;
+    box-sizing: border-box;
+	background-color:transparent;
+}
+
 #u437
 {
 	z-index: 21;
